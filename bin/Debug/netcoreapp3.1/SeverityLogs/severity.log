@@ -1,0 +1,313 @@
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:31  Http GET Request From: AuditSeverityController
+INFO  10:21:21  Http POST Request From: AuditSeverityController
+INFO  10:21:21  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:21  Response Method of SeverityRepo Called 
+INFO  10:21:32  Http POST Request From: AuditSeverityController
+INFO  10:21:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:32  Response Method of SeverityRepo Called 
+INFO  07:24:36 Application started. Press Ctrl+C to shut down.
+INFO  07:24:36 Application started. Press Ctrl+C to shut down.
+INFO  07:24:36 Hosting environment: Development
+INFO  07:24:36 Hosting environment: Development
+INFO  07:24:36 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  07:24:36 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  07:24:37  Http GET Request From: AuditSeverityController
+INFO  07:35:15 Application started. Press Ctrl+C to shut down.
+INFO  07:35:15 Application started. Press Ctrl+C to shut down.
+INFO  07:35:15 Hosting environment: Development
+INFO  07:35:15 Hosting environment: Development
+INFO  07:35:15 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  07:35:15 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  07:35:15  Http GET Request From: AuditSeverityController
+INFO  07:37:04  Http POST Request From: AuditSeverityController
+INFO  07:37:04  SeverityResponse Method of SeverityProvider Called 
+INFO  07:37:05  Response Method of SeverityRepo Called 
+INFO  07:39:36  Http POST Request From: AuditSeverityController
+INFO  07:39:36  SeverityResponse Method of SeverityProvider Called 
+INFO  07:39:36  Response Method of SeverityRepo Called 
+INFO  08:11:21 Application started. Press Ctrl+C to shut down.
+INFO  08:11:21 Application started. Press Ctrl+C to shut down.
+INFO  08:11:21 Hosting environment: Development
+INFO  08:11:21 Hosting environment: Development
+INFO  08:11:21 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:11:21 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:11:21  Http GET Request From: AuditSeverityController
+INFO  08:13:54  Http POST Request From: AuditSeverityController
+INFO  08:13:54  SeverityResponse Method of SeverityProvider Called 
+INFO  08:13:54  Response Method of SeverityRepo Called 
+INFO  08:40:14 Application started. Press Ctrl+C to shut down.
+INFO  08:40:14 Application started. Press Ctrl+C to shut down.
+INFO  08:40:14 Hosting environment: Development
+INFO  08:40:14 Hosting environment: Development
+INFO  08:40:14 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:40:14 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:40:14  Http GET Request From: AuditSeverityController
+INFO  08:42:07  Http POST Request From: AuditSeverityController
+INFO  08:42:07  SeverityResponse Method of SeverityProvider Called 
+INFO  08:42:07  Response Method of SeverityRepo Called 
+INFO  09:13:07 Application started. Press Ctrl+C to shut down.
+INFO  09:13:07 Application started. Press Ctrl+C to shut down.
+INFO  09:13:07 Hosting environment: Development
+INFO  09:13:07 Hosting environment: Development
+INFO  09:13:07 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:13:07 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:13:07  Http GET Request From: AuditSeverityController
+INFO  09:15:19  Http POST Request From: AuditSeverityController
+INFO  09:15:19  SeverityResponse Method of SeverityProvider Called 
+INFO  09:15:19  Response Method of SeverityRepo Called 
+INFO  09:16:26  Http POST Request From: AuditSeverityController
+INFO  09:16:26  SeverityResponse Method of SeverityProvider Called 
+INFO  09:16:26  Response Method of SeverityRepo Called 
+INFO  09:25:16 Application started. Press Ctrl+C to shut down.
+INFO  09:25:16 Application started. Press Ctrl+C to shut down.
+INFO  09:25:16 Hosting environment: Development
+INFO  09:25:16 Hosting environment: Development
+INFO  09:25:16 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:25:16 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:25:17  Http GET Request From: AuditSeverityController
+INFO  09:29:19  Http POST Request From: AuditSeverityController
+INFO  09:29:19  SeverityResponse Method of SeverityProvider Called 
+INFO  09:29:19  Response Method of SeverityRepo Called 
+INFO  09:29:26  Http POST Request From: AuditSeverityController
+INFO  09:29:26  SeverityResponse Method of SeverityProvider Called 
+INFO  09:29:26  Response Method of SeverityRepo Called 
+INFO  09:29:30  Http POST Request From: AuditSeverityController
+INFO  09:29:30  SeverityResponse Method of SeverityProvider Called 
+INFO  09:29:30  Response Method of SeverityRepo Called 
+INFO  10:21:25 Application started. Press Ctrl+C to shut down.
+INFO  10:21:25 Application started. Press Ctrl+C to shut down.
+INFO  10:21:25 Hosting environment: Development
+INFO  10:21:25 Hosting environment: Development
+INFO  10:21:25 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:21:25 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:21:25  Http GET Request From: AuditSeverityController
+INFO  10:23:37  Http POST Request From: AuditSeverityController
+INFO  10:23:37  SeverityResponse Method of SeverityProvider Called 
+INFO  10:23:38  Response Method of SeverityRepo Called 
+INFO  10:24:32  Http POST Request From: AuditSeverityController
+INFO  10:24:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:24:32  Response Method of SeverityRepo Called 
+INFO  10:24:51  Http POST Request From: AuditSeverityController
+INFO  10:24:51  SeverityResponse Method of SeverityProvider Called 
+INFO  10:24:51  Response Method of SeverityRepo Called 
+INFO  10:25:41  Http POST Request From: AuditSeverityController
+INFO  10:25:41  SeverityResponse Method of SeverityProvider Called 
+INFO  10:25:41  Response Method of SeverityRepo Called 
+INFO  10:35:09 Application started. Press Ctrl+C to shut down.
+INFO  10:35:09 Application started. Press Ctrl+C to shut down.
+INFO  10:35:09 Hosting environment: Development
+INFO  10:35:09 Hosting environment: Development
+INFO  10:35:09 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:35:09 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:35:10  Http GET Request From: AuditSeverityController
+INFO  10:37:46  Http POST Request From: AuditSeverityController
+INFO  10:37:46  SeverityResponse Method of SeverityProvider Called 
+INFO  10:37:46  Response Method of SeverityRepo Called 
+INFO  10:40:50  Http POST Request From: AuditSeverityController
+INFO  10:40:50  SeverityResponse Method of SeverityProvider Called 
+INFO  10:40:50  Response Method of SeverityRepo Called 
+INFO  10:43:54  Http POST Request From: AuditSeverityController
+INFO  10:43:54  SeverityResponse Method of SeverityProvider Called 
+INFO  10:43:54  Response Method of SeverityRepo Called 
+INFO  10:50:33 Application started. Press Ctrl+C to shut down.
+INFO  10:50:33 Application started. Press Ctrl+C to shut down.
+INFO  10:50:33 Hosting environment: Development
+INFO  10:50:33 Hosting environment: Development
+INFO  10:50:33 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:50:33 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:50:33  Http GET Request From: AuditSeverityController
+INFO  10:52:04  Http POST Request From: AuditSeverityController
+INFO  10:52:04  SeverityResponse Method of SeverityProvider Called 
+INFO  10:52:04  Response Method of SeverityRepo Called 
+INFO  10:52:51  Http POST Request From: AuditSeverityController
+INFO  10:52:51  SeverityResponse Method of SeverityProvider Called 
+INFO  10:52:51  Response Method of SeverityRepo Called 
+INFO  10:56:11  Http POST Request From: AuditSeverityController
+INFO  10:56:11  SeverityResponse Method of SeverityProvider Called 
+INFO  10:56:11  Response Method of SeverityRepo Called 
+INFO  10:59:17  Http POST Request From: AuditSeverityController
+INFO  10:59:17  SeverityResponse Method of SeverityProvider Called 
+INFO  10:59:17  Response Method of SeverityRepo Called 
+INFO  10:59:46  Http POST Request From: AuditSeverityController
+INFO  10:59:46  SeverityResponse Method of SeverityProvider Called 
+INFO  10:59:46  Response Method of SeverityRepo Called 
+INFO  11:01:11  Http POST Request From: AuditSeverityController
+INFO  11:01:11  SeverityResponse Method of SeverityProvider Called 
+INFO  11:01:11  Response Method of SeverityRepo Called 
+INFO  09:25:19 Application started. Press Ctrl+C to shut down.
+INFO  09:25:19 Application started. Press Ctrl+C to shut down.
+INFO  09:25:19 Hosting environment: Development
+INFO  09:25:19 Hosting environment: Development
+INFO  09:25:19 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:25:19 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  09:25:25  Http GET Request From: AuditSeverityController
+INFO  09:29:49  Http POST Request From: AuditSeverityController
+INFO  09:29:49  SeverityResponse Method of SeverityProvider Called 
+INFO  09:29:49  Response Method of SeverityRepo Called 
+INFO  09:30:37  Http POST Request From: AuditSeverityController
+INFO  09:30:37  SeverityResponse Method of SeverityProvider Called 
+INFO  09:30:37  Response Method of SeverityRepo Called 
+INFO  09:32:26  Http POST Request From: AuditSeverityController
+INFO  09:32:26  SeverityResponse Method of SeverityProvider Called 
+INFO  09:32:26  Response Method of SeverityRepo Called 
+INFO  04:44:24 Application started. Press Ctrl+C to shut down.
+INFO  04:44:24 Application started. Press Ctrl+C to shut down.
+INFO  04:44:24 Hosting environment: Development
+INFO  04:44:24 Hosting environment: Development
+INFO  04:44:24 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  04:44:24 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  04:44:27  Http GET Request From: AuditSeverityController
+INFO  04:48:38  Http POST Request From: AuditSeverityController
+INFO  04:48:38  SeverityResponse Method of SeverityProvider Called 
+INFO  04:48:39  Response Method of SeverityRepo Called 
+INFO  08:22:11 Application started. Press Ctrl+C to shut down.
+INFO  08:22:11 Application started. Press Ctrl+C to shut down.
+INFO  08:22:11 Hosting environment: Development
+INFO  08:22:11 Hosting environment: Development
+INFO  08:22:11 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:22:11 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  08:22:12  Http GET Request From: AuditSeverityController
+INFO  08:25:14  Http POST Request From: AuditSeverityController
+INFO  08:25:14  SeverityResponse Method of SeverityProvider Called 
+INFO  08:25:15  Response Method of SeverityRepo Called 
+INFO  08:31:04  Http POST Request From: AuditSeverityController
+INFO  08:31:04  SeverityResponse Method of SeverityProvider Called 
+INFO  08:31:04  Response Method of SeverityRepo Called 
+INFO  12:49:06 Application started. Press Ctrl+C to shut down.
+INFO  12:49:06 Application started. Press Ctrl+C to shut down.
+INFO  12:49:06 Hosting environment: Development
+INFO  12:49:06 Hosting environment: Development
+INFO  12:49:06 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:49:06 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:49:07  Http GET Request From: AuditSeverityController
+INFO  12:53:27  Http POST Request From: AuditSeverityController
+INFO  12:53:27  SeverityResponse Method of SeverityProvider Called 
+INFO  12:53:27  Response Method of SeverityRepo Called 
+INFO  12:57:58  Http POST Request From: AuditSeverityController
+INFO  12:57:58  SeverityResponse Method of SeverityProvider Called 
+INFO  12:57:58  Response Method of SeverityRepo Called 
+INFO  02:32:09 Application started. Press Ctrl+C to shut down.
+INFO  02:32:09 Application started. Press Ctrl+C to shut down.
+INFO  02:32:09 Hosting environment: Development
+INFO  02:32:09 Hosting environment: Development
+INFO  02:32:09 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  02:32:09 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  02:32:09  Http GET Request From: AuditSeverityController
+INFO  02:34:10  Http POST Request From: AuditSeverityController
+INFO  02:34:10  SeverityResponse Method of SeverityProvider Called 
+INFO  02:34:11  Response Method of SeverityRepo Called 
+INFO  02:37:54 Application started. Press Ctrl+C to shut down.
+INFO  02:37:54 Application started. Press Ctrl+C to shut down.
+INFO  02:37:54 Hosting environment: Development
+INFO  02:37:54 Hosting environment: Development
+INFO  02:37:54 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  02:37:54 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  02:37:54  Http GET Request From: AuditSeverityController
+INFO  02:40:39  Http POST Request From: AuditSeverityController
+INFO  02:40:39  SeverityResponse Method of SeverityProvider Called 
+INFO  02:40:39  Response Method of SeverityRepo Called 
+INFO  03:34:20 Application started. Press Ctrl+C to shut down.
+INFO  03:34:20 Application started. Press Ctrl+C to shut down.
+INFO  03:34:20 Hosting environment: Development
+INFO  03:34:20 Hosting environment: Development
+INFO  03:34:20 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  03:34:20 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  03:34:20  Http GET Request From: AuditSeverityController
+INFO  03:39:28  Http POST Request From: AuditSeverityController
+INFO  03:39:28  SeverityResponse Method of SeverityProvider Called 
+INFO  03:39:28  Response Method of SeverityRepo Called 
+INFO  03:40:36  Http POST Request From: AuditSeverityController
+INFO  03:40:36  SeverityResponse Method of SeverityProvider Called 
+INFO  03:40:36  Response Method of SeverityRepo Called 
+INFO  12:58:21 Application started. Press Ctrl+C to shut down.
+INFO  12:58:21 Application started. Press Ctrl+C to shut down.
+INFO  12:58:21 Hosting environment: Development
+INFO  12:58:21 Hosting environment: Development
+INFO  12:58:21 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:58:21 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:58:21  Http GET Request From: AuditSeverityController
+INFO  01:07:21  Http POST Request From: AuditSeverityController
+INFO  01:07:21  SeverityResponse Method of SeverityProvider Called 
+INFO  01:07:21  Response Method of SeverityRepo Called 
+INFO  01:11:07  Http POST Request From: AuditSeverityController
+INFO  01:11:07  SeverityResponse Method of SeverityProvider Called 
+INFO  01:11:07  Response Method of SeverityRepo Called 
+INFO  01:11:28  Http POST Request From: AuditSeverityController
+INFO  01:11:28  SeverityResponse Method of SeverityProvider Called 
+INFO  01:11:28  Response Method of SeverityRepo Called 
+INFO  03:12:12 Application started. Press Ctrl+C to shut down.
+INFO  03:12:12 Application started. Press Ctrl+C to shut down.
+INFO  03:12:12 Hosting environment: Development
+INFO  03:12:12 Hosting environment: Development
+INFO  03:12:12 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  03:12:12 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  03:12:14  Http GET Request From: AuditSeverityController
+INFO  05:26:51 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  05:26:55  Http GET Request From: AuditSeverityController
+INFO  05:53:26 Application started. Press Ctrl+C to shut down.
+INFO  05:53:26 Application started. Press Ctrl+C to shut down.
+INFO  05:53:26 Hosting environment: Development
+INFO  05:53:26 Hosting environment: Development
+INFO  05:53:26 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  05:53:26 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  05:53:27  Http GET Request From: AuditSeverityController
+INFO  06:17:28 Application started. Press Ctrl+C to shut down.
+INFO  06:17:28 Application started. Press Ctrl+C to shut down.
+INFO  06:17:28 Hosting environment: Development
+INFO  06:17:28 Hosting environment: Development
+INFO  06:17:28 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  06:17:28 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  06:17:28  Http GET Request From: AuditSeverityController
+INFO  06:19:05  Http POST Request From: AuditSeverityController
+INFO  06:19:05  SeverityResponse Method of SeverityProvider Called 
+INFO  06:19:05  Response Method of SeverityRepo Called 
+INFO  06:34:26 Application started. Press Ctrl+C to shut down.
+INFO  06:34:26 Application started. Press Ctrl+C to shut down.
+INFO  06:34:26 Hosting environment: Development
+INFO  06:34:26 Hosting environment: Development
+INFO  06:34:26 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  06:34:26 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  06:34:26  Http GET Request From: AuditSeverityController
+INFO  06:36:51  Http POST Request From: AuditSeverityController
+INFO  06:36:51  SeverityResponse Method of SeverityProvider Called 
+INFO  06:36:51  Response Method of SeverityRepo Called 
+INFO  01:05:38 Application started. Press Ctrl+C to shut down.
+INFO  01:05:38 Application started. Press Ctrl+C to shut down.
+INFO  01:05:38 Hosting environment: Development
+INFO  01:05:38 Hosting environment: Development
+INFO  01:05:38 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  01:05:38 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  01:05:38  Http GET Request From: AuditSeverityController
+INFO  01:08:33  Http POST Request From: AuditSeverityController
+INFO  01:08:33  SeverityResponse Method of SeverityProvider Called 
+INFO  01:08:34  Response Method of SeverityRepo Called 
+INFO  01:09:28  Http POST Request From: AuditSeverityController
+INFO  01:09:28  SeverityResponse Method of SeverityProvider Called 
+INFO  01:09:28  Response Method of SeverityRepo Called 
+INFO  12:45:51 Application started. Press Ctrl+C to shut down.
+INFO  12:45:51 Application started. Press Ctrl+C to shut down.
+INFO  12:45:51 Hosting environment: Development
+INFO  12:45:51 Hosting environment: Development
+INFO  12:45:51 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:45:51 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  12:45:51  Http GET Request From: AuditSeverityController
+INFO  12:46:11  Http POST Request From: AuditSeverityController
+INFO  12:46:11  SeverityResponse Method of SeverityProvider Called 
+INFO  12:46:11  Response Method of SeverityRepo Called 
+INFO  12:46:22  Http POST Request From: AuditSeverityController
+INFO  12:46:22  SeverityResponse Method of SeverityProvider Called 
+INFO  12:46:22  Response Method of SeverityRepo Called 
+INFO  12:46:32  Http POST Request From: AuditSeverityController
+INFO  12:46:32  SeverityResponse Method of SeverityProvider Called 
+INFO  12:46:32  Response Method of SeverityRepo Called 
